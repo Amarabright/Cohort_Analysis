@@ -52,7 +52,7 @@ The following Visuals are created in Tableau with some calculated fields.
 
 ![new revenue dashboard](https://user-images.githubusercontent.com/83390581/208318280-6f1d7c56-8f3a-4276-8e8d-7e2d180e981d.png)
 
-The interactive dashboard on Tableau can be found here https://public.tableau.com/app/profile/amarachi.nwoke.ugagbe/viz/CohortRetentionDashboard_16705837743370/CohortRetentionDashboard
+The interactive dashboard on Tableau can be found [here](https://public.tableau.com/app/profile/amarachi.nwoke.ugagbe/viz/CohortRetentionDashboard_16705837743370/CohortRetentionDashboard)
 
 ****
 
